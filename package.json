@@ -5,7 +5,7 @@
     "main": "index.js",
     "dependencies": {
         "body-parser": "^1.18.3",
-        "express": "^4.16.3",
+        "express": "^5.1.0",
         "firebase-admin": "^6.0.0"
     },
     "devDependencies": {},
